@@ -16,4 +16,22 @@ Changing PIN.
 Viewing transaction history.
 Exiting the ATM session.
 Usage:
-git clone https://github.com/yourusername/atm-simulato.git
+
+*git clone https://github.com/Nitishkumar0101/atm_machine.git
+*cd atm_machine
+Then run the java file 
+
+
+Enter your  card Details and follow the prompts to enter your PIN.
+Once authenticated, you can choose to access your saving or current account.
+Select from various options like withdrawing money, checking balance, changing PIN, or viewing transaction history.
+Follow the on-screen instructions to navigate through the ATM session.
+Remember to eject your card and exit the session when done.
+
+Contributing:
+
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request or open an issue to report bugs or suggest improvements.
+
+
+
