@@ -17,9 +17,11 @@ Viewing transaction history.
 Exiting the ATM session.
 Usage:
 
-*git clone https://github.com/Nitishkumar0101/atm_machine.git
-*cd atm_machine
-Then run the java file 
+* git clone https://github.com/Nitishkumar0101/atm_machine.git
+* cd atm_machine
+* Then run the java file 
+
+
 
 
 Enter your  card Details and follow the prompts to enter your PIN.
