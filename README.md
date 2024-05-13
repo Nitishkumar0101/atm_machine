@@ -17,7 +17,7 @@ Viewing transaction history.
 Exiting the ATM session.
 Usage:
 
-* git clone https://github.com/Nitishkumar0101/atm_machine.git
+* git clone ->  https://github.com/Nitishkumar0101/atm_machine/blob/main/ATM.java
 * cd atm_machine
 * Then run the java file 
 
